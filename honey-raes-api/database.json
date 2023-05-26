@@ -81,6 +81,12 @@
       "specialty": "Printer Repair",
       "rate": 29.45,
       "userId": 6
+    },
+    {
+      "id": 4,
+      "specialty": "nothing at all",
+      "rate": 1.3,
+      "userId": 7
     }
   ],
   "serviceTickets": [
@@ -118,6 +124,27 @@
       "description": "Pariatur nihil animi eos doloremque laborum fugiat consequuntur iusto. Et tempore a enim.",
       "emergency": true,
       "dateCompleted": "Fri Apr 29 2022 21:24:29 GMT-0500 (Central Daylight Time)"
+    },
+    {
+      "userId": 1,
+      "description": "hello i hate you react",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "description": "its kinda cool i can do this but still",
+      "emergency": false,
+      "dateCompleted": "",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "description": "hello",
+      "emergency": false,
+      "dateCompleted": "",
+      "id": 8
     }
   ],
   "employeeTickets": [
